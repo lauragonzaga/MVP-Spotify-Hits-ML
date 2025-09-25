@@ -2,7 +2,7 @@
 
 Trabalho realizado para a sprint de Machine Learning & Analytics do curso de pós-graduação em Ciência de Dados & Analytics da PUC-Rio.
 
-Você pode conferir o notebook [clicando aqui](https://github.com/lauragonzaga/MVP-Spotify-Hits-ML/blob/main/MVP_Spotify_Tracks.ipynb).
+Você pode conferir o notebook [clicando aqui](https://github.com/lauragonzaga/MVP-Spotify-Hits-ML/blob/main/MVP_Spotify_Hits.ipynb).
 
 ## Descrição do projeto
 Este projeto tem como objetivo estimar a probabilidade de uma música se tornar um **hit** no Spotify (popularidade ≥ 70).  
